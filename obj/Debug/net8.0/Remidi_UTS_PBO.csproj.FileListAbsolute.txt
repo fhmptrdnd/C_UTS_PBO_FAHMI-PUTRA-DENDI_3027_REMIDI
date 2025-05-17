@@ -1,0 +1,14 @@
+C:\Users\fahmi\Documents\Tugas Kuliah Fahmi\C#\Remidi_UTS_PBO\bin\Debug\net8.0\Remidi_UTS_PBO.exe
+C:\Users\fahmi\Documents\Tugas Kuliah Fahmi\C#\Remidi_UTS_PBO\bin\Debug\net8.0\Remidi_UTS_PBO.deps.json
+C:\Users\fahmi\Documents\Tugas Kuliah Fahmi\C#\Remidi_UTS_PBO\bin\Debug\net8.0\Remidi_UTS_PBO.runtimeconfig.json
+C:\Users\fahmi\Documents\Tugas Kuliah Fahmi\C#\Remidi_UTS_PBO\bin\Debug\net8.0\Remidi_UTS_PBO.dll
+C:\Users\fahmi\Documents\Tugas Kuliah Fahmi\C#\Remidi_UTS_PBO\bin\Debug\net8.0\Remidi_UTS_PBO.pdb
+C:\Users\fahmi\Documents\Tugas Kuliah Fahmi\C#\Remidi_UTS_PBO\obj\Debug\net8.0\Remidi_UTS_PBO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fahmi\Documents\Tugas Kuliah Fahmi\C#\Remidi_UTS_PBO\obj\Debug\net8.0\Remidi_UTS_PBO.AssemblyInfoInputs.cache
+C:\Users\fahmi\Documents\Tugas Kuliah Fahmi\C#\Remidi_UTS_PBO\obj\Debug\net8.0\Remidi_UTS_PBO.AssemblyInfo.cs
+C:\Users\fahmi\Documents\Tugas Kuliah Fahmi\C#\Remidi_UTS_PBO\obj\Debug\net8.0\Remidi_UTS_PBO.csproj.CoreCompileInputs.cache
+C:\Users\fahmi\Documents\Tugas Kuliah Fahmi\C#\Remidi_UTS_PBO\obj\Debug\net8.0\Remidi_UTS_PBO.dll
+C:\Users\fahmi\Documents\Tugas Kuliah Fahmi\C#\Remidi_UTS_PBO\obj\Debug\net8.0\refint\Remidi_UTS_PBO.dll
+C:\Users\fahmi\Documents\Tugas Kuliah Fahmi\C#\Remidi_UTS_PBO\obj\Debug\net8.0\Remidi_UTS_PBO.pdb
+C:\Users\fahmi\Documents\Tugas Kuliah Fahmi\C#\Remidi_UTS_PBO\obj\Debug\net8.0\Remidi_UTS_PBO.genruntimeconfig.cache
+C:\Users\fahmi\Documents\Tugas Kuliah Fahmi\C#\Remidi_UTS_PBO\obj\Debug\net8.0\ref\Remidi_UTS_PBO.dll
